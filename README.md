@@ -13,8 +13,7 @@ This project involves creating a new relational database named `DWH_Customers` b
 - Database Diagram
 - Installation
 - Usage
-- Contributing
-- License
+
 
 ## Project Overview
 
@@ -76,6 +75,9 @@ A diagram of the new database structure will be defined and included here.
 ## Installation
 
 Instructions for setting up the `DWH_Customers` database locally.
+
+### Run the query Create db Training, to create the Training database 
+### Run the query DWH_Customers Project
 
 ```bash
 # Clone the repository
