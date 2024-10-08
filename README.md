@@ -79,7 +79,7 @@ Instructions for setting up the `DWH_Customers` database locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DWH_Customers.git
+git clone https://github.com/MihaiMarianMacrea/SQL-Project
 cd DWH_Customers
 
 # Run the setup script
