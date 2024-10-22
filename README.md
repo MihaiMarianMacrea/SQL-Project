@@ -86,3 +86,4 @@ cd DWH_Customers
 
 # Run the setup script
 ./setup.sh
+de pus scripturile de factu bazele de date
